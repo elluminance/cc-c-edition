@@ -1,2 +1,2 @@
 # cc-c-edition
-The worst mod for CrossCode.
+C the world in a new way.
